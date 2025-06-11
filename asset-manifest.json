@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/project-phase02-cust-app/static/css/main.0b76043a.css",
+    "main.js": "/project-phase02-cust-app/static/js/main.ad8a64fc.js",
+    "index.html": "/project-phase02-cust-app/index.html",
+    "main.0b76043a.css.map": "/project-phase02-cust-app/static/css/main.0b76043a.css.map",
+    "main.ad8a64fc.js.map": "/project-phase02-cust-app/static/js/main.ad8a64fc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b76043a.css",
+    "static/js/main.ad8a64fc.js"
+  ]
+}
